@@ -16,8 +16,8 @@
 
 ### 🚀 Projects I’m Proud Of
 - **🌱 [Sproutify](https://github.com/sanidhya1910/sproutify)** — Connecting activists and volunteers through a platform that actually works  
-- **🧾 [Multiline TrOCR](https://github.com/sanidhya1910/multiline-trocr)** — Detecting both printed and handwritten text using OCR models  
-- **🗣️ [Talk To Me TA](https://github.com/sanidhya1910/talk-to-me-ta)** — A real-time streaming voicebot, RAG-ready for next-gen customer support
+- **🧾 [Multiline TrOCR](https://github.com/sanidhya1910/multiline_TrOCR)** — Detecting both printed and handwritten text using OCR models  
+- **🗣️ [Talk To Me TA](https://github.com/sanidhya1910/talk-to-me-ta-)** — A real-time streaming voicebot, RAG-ready for next-gen customer support
 
 ---
 
