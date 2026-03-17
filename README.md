@@ -15,9 +15,10 @@
 ---
 
 ### 🚀 Projects I’m Proud Of
-- **🌱 [Sproutify](https://github.com/sanidhya1910/sproutify)** — Connecting activists and volunteers through a platform that actually works  
-- **🧾 [Multiline TrOCR](https://github.com/sanidhya1910/multiline_TrOCR)** — Detecting both printed and handwritten text using OCR models  
-- **🗣️ [Talk To Me TA](https://github.com/sanidhya1910/talk-to-me-ta-)** — A real-time streaming voicebot, RAG-ready for next-gen customer support
+- **✈️ [Triptactix](https://github.com/sanidhya1910/triptactix)** - AI powered trip planner and ML based flight price tracker for budget travelers
+- **🌱 [Sproutify](https://github.com/sanidhya1910/sproutify)** - Connecting activists and volunteers through a platform that actually works  
+- **🧾 [Multiline TrOCR](https://github.com/sanidhya1910/multiline_TrOCR)** - Detecting both printed and handwritten text using OCR models  
+- **🗣️ [Talk To Me TA](https://github.com/sanidhya1910/talk-to-me-ta-)** - A real-time streaming voicebot, RAG-ready for next-gen customer support
 
 ---
 
